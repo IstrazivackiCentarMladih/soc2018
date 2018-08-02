@@ -1,0 +1,8 @@
+# adjust overscan:
+# 
+# Raspberry -> Preferences -> Raspberry Pi Configuration -> System -> Underscan -> Disabled -> OK -> OK (reboot now)
+# 
+# install wordlist:
+sudo apt install wcanadian
+
+

@@ -1,0 +1,1 @@
+# Obavezno provjeriti COM port arduina prije pokretanja!

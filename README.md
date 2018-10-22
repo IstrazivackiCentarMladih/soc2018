@@ -7,6 +7,7 @@
 ### Automatsko održavanje terarija
 autor Jakob Domislović, student preddiplomskog studija FER-a  
 ### Protuprovalni uređaj
+https://gitlab.com/SolaireTheSun/Arduino_Filip_i_Kristijan
 autori Kristijan Čeple i Filip Wolf, studenti preddiplomskog studija FER-a  
 ### Gestom upravljana glazbena lista
 https://gitlab.com/lorentzo/ICM-pljesnivi_sir  
